@@ -7,8 +7,8 @@ import AboutPreview from "./templates/about.js";
 
 CMS.registerPreviewStyle(styles, { raw: true });
 
-CMS.registerPreviewStyle("/css/resume.css");
-CMS.registerPreviewStyle("/css/tweaks.css");
+CMS.registerPreviewStyle("site/css/resume.css");
+CMS.registerPreviewStyle("site/css/tweaks.css");
 
 CMS.registerPreviewTemplate("about", AboutPreview);
 CMS.init();
