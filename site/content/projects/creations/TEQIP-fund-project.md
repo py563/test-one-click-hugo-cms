@@ -4,7 +4,7 @@ title: A Query Based Mining Approach on Public Open Data Repository for
 date: 2023-02-11T12:41:05-05:00
 featured: true
 link: "#"
-image: img/ian-dooley-dj7bwa-gwks-unsplash.jpg
+image: /img/ian-dooley-dj7bwa-gwks-unsplash.jpg
 description: CO-Principle Investigator for TEQIP funded project
 tags:
   - Data Mining
